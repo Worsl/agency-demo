@@ -10,5 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "code" : 0,
+  "data": ["Agency 1", "Agency 2", "Agency 3"]
 }
