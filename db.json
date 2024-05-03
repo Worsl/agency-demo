@@ -9,7 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "cheng"
-  },
-  "data": ["Agency 1", "Agency 2", "Agency 3"]
+    "name": "orange"
+  }
 }
