@@ -11,7 +11,18 @@
     "name": "orange"
   },
   "info": {
-    "data": ["Agency 1", "Agency 2", "Agency 3"],
+    "data": [
+      "Global Solutions Corp.",
+      "Interstellar Logistics LLC",
+      "Blue Ocean Strategies Inc.",
+      "Quantum Dynamics Agency",
+      "NextGen Innovations Ltd.",
+      "Skyline Technologies",
+      "Emerald Green Services",
+      "Golden Ratio Designs",
+      "Silicon Valley Dynamics",
+      "Future Visionaries Corp."
+    ]
     "code": 0
   }
 }
