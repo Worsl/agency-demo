@@ -10,5 +10,8 @@
   "profile": {
     "name": "orange"
   },
-  "data": ["Agency 1", "Agency 2", "Agency 3"]
+  "info": {
+    "data": ["Agency 1", "Agency 2", "Agency 3"],
+    "code": 0
+  }
 }
