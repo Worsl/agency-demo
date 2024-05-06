@@ -10,7 +10,7 @@
   "profile": {
     "name": "orange"
   },
-  "info": {
+"info": {
     "data": [
       "Global Solutions Corp.",
       "Interstellar Logistics LLC",
@@ -21,7 +21,17 @@
       "Emerald Green Services",
       "Golden Ratio Designs",
       "Silicon Valley Dynamics",
-      "Future Visionaries Corp."
+      "Future Visionaries Corp.",
+      "Alpha Centauri Systems",
+      "Beta Pictoris Networks",
+      "Gamma Ray Industries",
+      "Delta Force Technologies",
+      "Epsilon Eridani Solutions",
+      "Zeta Reticuli Logistics",
+      "Eta Carinae Strategies",
+      "Theta Orionis Agency",
+      "Iota Draconis Innovations",
+      "Kappa Andromedae Technologies"
     ],
     "code": 0
   }
